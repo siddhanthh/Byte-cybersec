@@ -1,6 +1,6 @@
 To solve the given task, the qr image was downloaded and cleaned with ms paint and online tool merricx.
 
-After the cleaned up qr codes were decoded both of which had 4 and 9 missing bytes and the decoded strings were  **http3://bp -` bew÷ec-ps.virced&app/** and **ttx3://bzZe-xybewec-0s.vircefapp-**
+After the cleanup, there were 2 qr codes which were decoded both of which had 4 and 9 missing bytes and the decoded strings were  **http3://bp -` bew÷ec-ps.virced&app/** and **ttx3://bzZe-xybewec-0s.vircefapp-**
 
 It was deduced then that the qr reads **https://byte-cybersec-ps.vercel.app/**
 
